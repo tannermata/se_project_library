@@ -44,6 +44,10 @@
   font-weight: bold;
 }
 
+.nav__link:hover {
+  color: #1f69c9;
+}
+
 .header__title {
   font-size: 66px;
   line-height: 76px;
@@ -84,6 +88,9 @@
 .header__link {
   color: #2f80ed;
   text-decoration: none;
+}
+.header__link:hover {
+  color: #1f69c9;
 }
 
 .header__address {
@@ -170,6 +177,10 @@
 .events__more {
   color: #2f80ed;
   text-decoration: none;
+}
+
+.events__more:hover {
+  color: #1f69c9;
 }
 
 .events__cover {
@@ -410,7 +421,7 @@
   position: absolute;
   top: -121px;
   left: -91px;
-  z-index: 2;
+  z-index: 0;
 }
 
 .footer {
