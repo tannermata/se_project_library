@@ -410,13 +410,13 @@
   position: absolute;
   top: -121px;
   left: -91px;
-  z-index: 2:
+  z-index: 2;
 }
 
 .footer {
   box-sizing: border-box;
   background-color: #1f1f1f;
-  color:#fff;
+  color: #fff;
   padding: 60px 102px 60px 80px;
 }
 
@@ -464,7 +464,7 @@
 }
 
 .footer__column-link:hover {
-  color: #c1c1c1
+  color: #c1c1c1;
 }
 
 .footer__social-icon {
